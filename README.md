@@ -2,7 +2,7 @@
 # IBM Client Developer Advocacy App Modernization Series
 
 ##  Plants by WebSphere Java EE 6  app for multiple labs in the App Modernization Series
-
+## test
 This is a modified version of the code for the [Plants by WebSphere sample](https://www.ibm.com/support/knowledgecenter/en/SSAW57_8.5.5/com.ibm.websphere.nd.multiplatform.doc/ae/covr_samples.htmlgithub
   ) that comes with WebSphere Application Server V8.5.5 for use in IBM Cloud Private/IBM Cloud Kubernetes Service developer training. The code has been modified per the recommendations of the [IBM Cloud Transformation Advisor](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.1.1/featured_applications/transformation_advisor.html).
 
