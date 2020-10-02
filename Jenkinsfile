@@ -2,7 +2,7 @@ pipeline {
   
     agent any
     stages {
-     stage('Build application ear file') {
+     stage('test') {
           steps {
              echo 'Hello, Kishore'
           }
